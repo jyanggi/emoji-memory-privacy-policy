@@ -6,7 +6,7 @@ This page informs you of our policies regarding the collection, use, and disclos
 
 **Information Collection and Use**
 
-We do not collect, use, or disclose any personal data from users of our Service. EmojiMemory is a simple memory game with emojis that does not require or collect any personal information.
+We do not collect, use, or disclose any personal data from users of our Service. EmojiMemory is a simple in-memory game with emojis that does not require or collect any personal information. The game only stores high scores and game progress in the device's cache.
 
 **Log Data**
 
@@ -22,7 +22,7 @@ We do not employ third-party companies or individuals to facilitate our Service,
 
 **Children's Privacy**
 
-Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will delete such information from our servers immediately.
+Our Service is suitable for children of all ages. We do not knowingly collect personally identifiable information from children. EmojiMemory only stores high scores and game progress locally on the device, ensuring a safe and private experience for all users, including children.
 
 **Changes to This Privacy Policy**
 
